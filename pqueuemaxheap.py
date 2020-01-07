@@ -1,8 +1,6 @@
-# Stephanie Schofield
-# CIS 313 Fall 2019
-# Daniel Lowd and Nithin Gowda
+# Stephanie Schofield - University of Oregon Clark Honors College - 2019
 #
-# Lab3: Implementing a Priority Queue using a Max-Heap
+# Implementing a Priority Queue using a Max-Heap
 
 class max_heap(object):
     """Binary max-heap
